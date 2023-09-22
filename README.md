@@ -8,37 +8,21 @@ Se ingresa el siguiente comando para ejecutar la imagen del proyecto
 docker run -d -p 34002:6000 --name parcial jloading9/bonoparcial
 ```
 
-### Instalación
+<img width="703" alt="Captura de pantalla 2023-09-21 a la(s) 9 15 38 p m" src="https://github.com/jloading/BonoAREP/assets/65261708/bc62a673-b31e-4d32-98a6-2c71137d3884">
 
-1. Clonar el repositorio
+### Pruebas
 
+Página principal
+<img width="633" alt="Captura de pantalla 2023-09-21 a la(s) 9 18 13 p m" src="https://github.com/jloading/BonoAREP/assets/65261708/d90ccbf7-ea6d-41cc-8d3d-5953231d785b">
+
+Página principal en funcionamiento
+<img width="627" alt="Captura de pantalla 2023-09-21 a la(s) 9 21 47 p m" src="https://github.com/jloading/BonoAREP/assets/65261708/f994ffc1-64d9-447b-a6c8-8f52421d0aca">
+
+### Docker Hub
+Al ingresar el comando presentado en el primer paso, se está extrayendo la imagen directamente desde Docker Hub, sin embargo, acá puede encontrar el repositorio:
 ```
-https://github.com/jloading/Taller3AREP
+https://hub.docker.com/repository/docker/jloading9/bonoparcial/general
 ```
-
-2. Se construye el proyecto con Maven
-
-```
-mvn package
-```
-
-## Corriendo las pruebas
-
-Se acceden a los recursos especificados, en este caso son imágenes y páginas web:
-
-<img width="720" alt="Captura de pantalla 2023-08-30 a la(s) 9 02 26 p m" src="https://github.com/jloading/Taller2AREP/assets/65261708/436295ba-f81d-4e6a-a470-f6da65ac0840">
-
-<img width="716" alt="Captura de pantalla 2023-09-06 a la(s) 10 29 03 p m" src="https://github.com/jloading/Taller3AREP/assets/65261708/7c481de0-bcec-4ceb-a1a3-2d5206a9b38d">
-
-<img width="714" alt="Captura de pantalla 2023-09-06 a la(s) 10 29 29 p m" src="https://github.com/jloading/Taller3AREP/assets/65261708/326c6bd9-96a0-4add-ba27-851eaceb3a85">
-
-
-## Hecho con
-
-* Java
-* Git
-* Maven
-* HTML, JavaScript
 
 ## Autor
 
