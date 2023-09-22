@@ -1,12 +1,12 @@
-# TALLER 3: DISEÑO Y ESTRUCTURACIÓN DE APLICACIONES DISTRIBUIDAS EN INTERNET
+# BONO PARCIAL 1
 
-Servidor web diseñado para soportar funcionalidades parecidas a las de Spark.
+### Ejecución de la imagen
 
-### Prerrequisitos
+Se ingresa el siguiente comando para ejecutar la imagen del proyecto
 
-- Java
-- Maven
-- IDE
+```
+docker run -d -p 34002:6000 --name parcial jloading9/bonoparcial
+```
 
 ### Instalación
 
